@@ -1,4 +1,0 @@
-To run the project, type `make run` in the terminal.
-This command builds the lexer and parser automatically, then runs the lexical analyzer-
--on every `.txt` file in the directory and generates a corresponding `<file>-output.txt` for each one.
-
