@@ -1,0 +1,13 @@
+class Test {
+    int x;
+    float y = 3.14;
+    final bool flag = true;
+
+    void main() {
+        int i;
+        i = 5;
+        print(i);
+        printline(i);
+    }
+}
+
